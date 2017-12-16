@@ -1,1 +1,2 @@
-print("Hello world!")
+greeting = input("Input your greeting message: ")
+print(greeting)
